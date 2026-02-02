@@ -1,0 +1,11 @@
+Process -> An instance that is being executed at the moment
+
+Thread -> A unit of execution within a process
+
+    Sinlge Vs Multiple Thread
+
+    Single -> Single Thread means Single stack and registers
+    Multiple -> Multiple Thread means Multiple stack and registers
+
+
+

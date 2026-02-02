@@ -1,0 +1,2 @@
+2025-12-16 10:56:28,265 || arithmetic || INFO || The function is called
+2025-12-16 10:56:28,265 || arithmetic || ERROR || An error occurred as unsupported operand type(s) for +=: 'int' and 'str'

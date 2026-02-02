@@ -1,0 +1,13 @@
+
+{
+"python.analysis.completeFunctionParens": true,
+"python.analysis.autoSearchPaths": true,
+"python.languageServer": "Pylance",
+"python.analysis.useLibraryCodeForTypes": true,
+"editor.quickSuggestionsDelay": 0,
+"python.analysis.indexing": false,
+"python.analysis.memory.keepLibraryAst": false,
+// "editor.quickSuggestionsDelay": 0
+
+
+}

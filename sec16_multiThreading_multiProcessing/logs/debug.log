@@ -1,0 +1,16 @@
+2025-12-18 11:30:44,129 || urllib3.connectionpool || DEBUG || Starting new HTTP connection (1): kaggle.com:80
+2025-12-18 11:30:44,130 || urllib3.connectionpool || DEBUG || Starting new HTTPS connection (1): docs.python.org:443
+2025-12-18 11:30:44,130 || urllib3.connectionpool || DEBUG || Starting new HTTPS connection (1): code.visualstudio.com:443
+2025-12-18 11:30:44,506 || urllib3.connectionpool || DEBUG || https://docs.python.org:443 "GET /3/library/time.html HTTP/1.1" 200 19777
+2025-12-18 11:30:44,568 || urllib3.connectionpool || DEBUG || http://kaggle.com:80 "GET /datasets/ajinkyachintawar/employee-attrition-and-retention-analytics-dataset HTTP/1.1" 302 0
+2025-12-18 11:30:44,570 || urllib3.connectionpool || DEBUG || Starting new HTTPS connection (1): kaggle.com:443
+2025-12-18 11:30:44,619 || __main__ || INFO || Response received from url -> https://docs.python.org/3/library/time.html
+2025-12-18 11:30:44,675 || __main__ || INFO || Printed from url -> https://docs.python.org/3/library/time.html
+2025-12-18 11:30:44,868 || urllib3.connectionpool || DEBUG || https://code.visualstudio.com:443 "GET /docs/?dv=win64user HTTP/1.1" 200 None
+2025-12-18 11:30:44,869 || __main__ || INFO || Response received from url -> https://code.visualstudio.com/docs/?dv=win64user
+2025-12-18 11:30:44,890 || __main__ || INFO || Printed from url -> https://code.visualstudio.com/docs/?dv=win64user
+2025-12-18 11:30:45,258 || urllib3.connectionpool || DEBUG || https://kaggle.com:443 "GET /datasets/ajinkyachintawar/employee-attrition-and-retention-analytics-dataset HTTP/1.1" 302 0
+2025-12-18 11:30:45,259 || urllib3.connectionpool || DEBUG || Starting new HTTPS connection (1): www.kaggle.com:443
+2025-12-18 11:30:45,995 || urllib3.connectionpool || DEBUG || https://www.kaggle.com:443 "GET /datasets/ajinkyachintawar/employee-attrition-and-retention-analytics-dataset HTTP/1.1" 200 None
+2025-12-18 11:30:45,995 || __main__ || INFO || Response received from url -> http://kaggle.com/datasets/ajinkyachintawar/employee-attrition-and-retention-analytics-dataset
+2025-12-18 11:30:45,997 || __main__ || INFO || Printed from url -> http://kaggle.com/datasets/ajinkyachintawar/employee-attrition-and-retention-analytics-dataset

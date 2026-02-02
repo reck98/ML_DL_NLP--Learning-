@@ -1,0 +1,2 @@
+2025-12-16 11:25:51,094 || test.operators || INFO || The function is called
+2025-12-16 11:25:51,094 || test.operators || ERROR || An error occured as unsupported operand type(s) for +=: 'int' and 'str'
